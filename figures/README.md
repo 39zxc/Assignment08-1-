@@ -1,1 +1,1 @@
-ls
+There are two figures.
